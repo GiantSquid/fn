@@ -1,0 +1,29 @@
+{
+  "name": "fn",
+  "version": "0.1.0",
+  "description": "Frontender.Ninja",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GiantSquid/fn"
+  },
+  "keywords": [
+    "Frontend",
+    "Ninja",
+    "Test project"
+  ],
+  "author": "foxrandom",
+  "contributors": [
+    "Fox Random <contact@foxrandom.com> (http://foxrandom.com)"
+  ],
+  "license": "MIT"
+}

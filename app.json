@@ -1,0 +1,7 @@
+{
+  "name": "fn",
+  "description": "Frontender.Ninja Static",
+  "repository": "https://github.com/GiantSquid/fn",
+  "logo": "http://fn.frontender.ninja/node.svg",
+  "keywords": ["frontend", "ninja", "static"]
+}
